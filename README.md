@@ -1,7 +1,3 @@
-# Image and Video Processing Projects
-
-This repository contains a collection of projects focused on image and video processing, leveraging various machine learning techniques for tasks such as background extraction, facial recognition, image classification, and sentiment analysis.
-
 ## Projects Overview
 
 ### 1. Background Extraction using Frame Averaging
